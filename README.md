@@ -14,7 +14,12 @@ Salam kenal..
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammad-rizky-ikhval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subastiansk" height="30" width="40" /></a>
   <a href="https://www.instagram.com/rizky__val/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subastiansk" height="30" width="40" /></a>
-<!-- <a href="https://rprayatman.my.id" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=63807&format=png" alt="rizkyprayatman.my.id" height="40" width="45" /></a> -->
+</p>
+
+<h3 align="left">Project lain :</h3>
+<p align="left">
+  <a href="https://httpsrizkyikhvaltipoltektegal.wordpress.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/wordpress.svg" alt="subastiansk" height="30" width="40" /></a>
+ 
 </p>
 
 <br>
